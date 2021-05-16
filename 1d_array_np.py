@@ -54,6 +54,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 plt.plot(l,f)
 
+####Plotting settings
 # def Plotvec1(u, z, v):
 #
 #     ax = plt.axes()
